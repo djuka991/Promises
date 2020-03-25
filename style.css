@@ -1,0 +1,39 @@
+.container,
+.container__cards {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    background-color: gray;
+    width: 600px;
+    height: 300px;
+ 
+}
+.btn{
+    border:none;
+    outline: none;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 120px 10px;
+}
+/* .btn:hover{
+    background-color: rgb(145, 1, 1);
+   border: 1px solid black;
+   border-radius: 50%;
+} */
+.container__cards{
+    margin-top: 10px;
+    width: 300px;
+    border: 1px solid black;
+    height: auto;
+}
+.container__cards-ul{
+    background-color: aquamarine;
+    list-style-type: none;
+    margin: 10px ;
+   
+}
+
+.hidden{
+    display: none  ;
+}

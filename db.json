@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+
+  },
+
+  "user": [
+    {
+      "firstName" : "Mark",
+      "lastName"  : "Something1",
+      "codeNumber": 1
+    },
+    {
+      "firstName" : "Nik",
+      "lastName"  : "Something2",
+      "codeNumber": 2
+    },
+    {
+      "firstName" : "Tom",
+      "lastName"  : "Something3",
+      "codeNumber": 3
+    },
+    {
+      "firstName" : "Djuro",
+      "lastName"  : "Something4",
+      "codeNumber": 4
+    }
+  ]
+}
+
